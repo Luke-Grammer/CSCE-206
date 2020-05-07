@@ -1,0 +1,5 @@
+Item 1 $1
+
+Total: $1
+The Smallest Price: $1
+The Largest Price: $1
